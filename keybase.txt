@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/danjanosik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danjanosik.com
+  * I am danjanosik (https://keybase.io/danjanosik) on keybase.
+  * I have a public key with fingerprint F579 929B 39B1 19CC 7B0B  B71F B326 ACF5 1F31 7B69
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f579929b39b119cc7b0bb71fb326acf51f317b69",
+            "host": "keybase.io",
+            "key_id": "b326acf51f317b69",
+            "uid": "0947f24c318079960b43494b04a5e100",
+            "username": "danjanosik"
+        },
+        "service": {
+            "hostname": "danjanosik.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1410970112,
+    "expire_in": 157680000,
+    "prev": "34e3620b862e4947a820b98b048559cb47d3af855fa07e1dbf4745d400f7a879",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.3
+Comment: https://keybase.io/crypto
+
+yMHkAnicbZFrSBRRFMd3zYokLcpI7fHhlhS4LfPamZ0tpAiJEDSjUCpc5s7c0etj
+Zt0ZV01Uogd+SBoIpRBNhEwotcwyMkzKRyktImVkJGWCpSgUBRlI3ZH6VPfLveec
+3/mfc+7pj17hiHIO/ghfW+oMjzlH+r4XO47FdzrKAdSVMuArB/lo+VKxloOCgSDW
+TOADqkcQRUaErAhpWpRlAVIQCrQKWYaXZNVDqywtQF4ELpCrG3YGkYGSgdxYJz5i
++LFCvP/hi5cDlMgJKsPJLO2lSCmeghzLiRykOMmDaIqyQQMFNakQEVqRtDxJ0w2c
+DypcgPhDWEZ213bxfxi3rBeS/EBQN3VZLyCxXNMM+OxUsyxgsyUI+v+o+CHWFDI7
+SQihoIF1DfhoQsomtmVpjqZEgaJpxgVQaQAHkR/bhEfgvRQ5dhkUIpIsh1ieoaCX
+ZxAZRJC8xBC9ZCCvxyPKkBMUVlLJW5UoAdEKVDmB8ygcRamEFeyfMVCRpgMfR9qU
+coikgXM0ySwOIlDxpO9UpMMZ5Vi1MsLeniNqzfq/O52aW/0rbd66OVmVsjUrHHOl
+dyAE9re31NEXAml7Z39Wz8e+r5wRu/3PKh+sb58omu2eNrMTjyoN777W4r5cqTTh
+hMEcz3LG3Xd/qSqoLbnTspA5sthW4QiltxzAeakvkuc67x1JbS6NbT75EMa/fdUb
+vn39+bbBgaU34253186YxkuHk7oiZhb3WOFKa2ps876DE5Z1ZvdF13A2Hk1q29Va
+/XhHSpHYcG5D4/mPn6eHBHMtU3fa35PQPNWx/RP/qCkzZvzbh9Grh270NxVq+iZU
+trCu42xkY42VUTNxS9sYx7YmDtdnbAlPxuWLbT2x8U/rrZfQSlbTa+6+7gejl3uG
+on8D7sIdEQ==
+=GZGl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danjanosik
+
+==================================================================
+
